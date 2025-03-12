@@ -14,9 +14,13 @@ The **Bank Management System** is a C++ console-based application that provides 
 - **C++** (Core logic & implementation)  
 
 🛠️ Future Enhancements
+
 🔹 Implement a Graphical User Interface (GUI)
+
 🔹 Integrate MySQL database for better data management
+
 🔹 Support multi-user login system
+
 🔹 Add loan and interest calculations
 
 👨‍💻 Contributing
