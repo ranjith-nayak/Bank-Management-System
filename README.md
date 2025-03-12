@@ -11,18 +11,8 @@ The **Bank Management System** is a C++ console-based application that provides 
 ✅ View transaction history  
 
 ## 🛠️ Technologies Used
-- **C++** (Core logic & implementation)  
-
-🛠️ Future Enhancements
-
-🔹 Implement a Graphical User Interface (GUI)
-
-🔹 Integrate MySQL database for better data management
-
-🔹 Support multi-user login system
-
-🔹 Add loan and interest calculations
-
+- **C++** (Core logic & implementation)
+  
 👨‍💻 Contributing
 Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
 
